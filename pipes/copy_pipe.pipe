@@ -1,3 +1,6 @@
+DESCRIPTION >
+    "Scheduled copy of demo_analytics_events_1872 to copy_analytics"
+
 TOKEN "scheduled_copy_t_b6c85a87979a4ccab5018bb26284b40b" READ
 
 NODE copy_pipe_node

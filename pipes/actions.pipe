@@ -1,0 +1,3 @@
+NODE actions_node
+SQL >
+    SELECT timestamp, action FROM demo_analytics_events_1872
